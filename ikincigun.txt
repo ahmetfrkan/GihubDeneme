@@ -3,3 +3,4 @@ GitGithub ikinci gun ikinci deneme
 GitGithub ikinci gun ucuncu deneme
 GitGithub ikinci gun FURKAN BRANCH'I deneme
 GitGithub ikinci gun MASTER BRANCH'I deneme
+GitGithub ikinci gun FURKAN BRANCH'I ikinci deneme
